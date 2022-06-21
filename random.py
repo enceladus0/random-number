@@ -1,3 +1,3 @@
 import random
-L1 = random.sample(range(1, 10), 5)
+L1 = random.sample(range(1, 8), 2)
 print(L1)
